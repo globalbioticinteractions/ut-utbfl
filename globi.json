@@ -1,0 +1,8 @@
+{ 
+  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
+  "citation": "Pardee, G.L., Ballare, K.M., Neff, J.L., Do, L.Q., Ojeda, D., Bienenstock, E.J., Brosi, B.J., Grubesic, T.H., Miller, J.A., Tong, D. and Jha, S., 2023. Local and Landscape Factors Influence Plant-Pollinator Networks and Bee Foraging Behavior across an Urban Corridor. Land, 12(2), p.362. https://www.mdpi.com/2073-445X/12/2/362",
+  "doi": "10.3390/land12020362",
+  "deprecated": false,
+  "format": "dwca",
+  "url": "UT-UTBFL_DwC-A.zip"
+}

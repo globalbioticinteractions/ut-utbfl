@@ -1,0 +1,5 @@
+reviewId,reviewDate,reviewer,namespace,reviewCommentType,reviewComment,archiveURI,referenceUrl,institutionCode,collectionCode,collectionId,catalogNumber,occurrenceId,sourceCitation,dataContext
+244ff13e-1c9a-4496-9889-4f53efb602b2,2022-11-22T14:42:32Z,GloBI automated reviewer (elton-0.12.4),globalbioticinteractions/template-dataset,summary,https://zenodo.org/record/1436853/files/globalbioticinteractions/template-dataset-0.0.3.zip,,,,,,,,,
+244ff13e-1c9a-4496-9889-4f53efb602b2,2022-11-22T14:42:32Z,GloBI automated reviewer (elton-0.12.4),globalbioticinteractions/template-dataset,summary,11 interaction(s),,,,,,,,,
+244ff13e-1c9a-4496-9889-4f53efb602b2,2022-11-22T14:42:32Z,GloBI automated reviewer (elton-0.12.4),globalbioticinteractions/template-dataset,summary,0 note(s),,,,,,,,,
+244ff13e-1c9a-4496-9889-4f53efb602b2,2022-11-22T14:42:32Z,GloBI automated reviewer (elton-0.12.4),globalbioticinteractions/template-dataset,summary,11 info(s),,,,,,,,,
